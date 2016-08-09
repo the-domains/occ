@@ -11,6 +11,10 @@ color:
     - '#2667FF'
     - '#3B28CC'
 layout_spectrum: 0.3247289853170514
+author:
+  name: Lee Hughes
+  email: lee@ecoat.us
+  url: ecoat.us
 name: OCC
 title: 'Oklahoma Custom Coating, LLC'
 description: Corrosion Control Coating Systems
