@@ -1,4 +1,3 @@
-layout_spectrum: 0.3247289853170514
 typography_spectrum: 0.8849238120019436
 color:
   brandStrength: 0.16471521859057248
@@ -6,9 +5,11 @@ color:
   saturation: 0.9938315467443317
   rhythmicContrast: 0.810548655455932
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.3247289853170514
 name: OCC
+description: Corrosion Control Coating Systems
