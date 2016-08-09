@@ -1,0 +1,14 @@
+layout_spectrum: 0.3247289853170514
+typography_spectrum: 0.8849238120019436
+color:
+  brandStrength: 0.16471521859057248
+  lightness: 0.8452004832215607
+  saturation: 0.9938315467443317
+  rhythmicContrast: 0.810548655455932
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: OCC
